@@ -1,0 +1,16 @@
+{
+  "name": "Tópicos Especiais em Ciência e Tecnologia",
+  "version": "1.0.0",
+  "description": "Trabalho método de Euler explícito e implícito e regra dos trapézios",
+  "main": "trapezio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rivaldo",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "nodeplotlib": "^1.1.2"
+  }
+}
